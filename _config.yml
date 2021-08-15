@@ -22,8 +22,6 @@ permalink: ':title/'
 plugins:
   - jekyll-admin
   - jekyll-paginate
-  - jekyll-redirect-from
-  - jekyll-redirect_to
 paginate: 7
 paginate_path: "/page/:num"
 include:
